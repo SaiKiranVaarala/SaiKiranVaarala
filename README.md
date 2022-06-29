@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SaiKiranVaarala</h1>
 <h3 align="center">A FullStack JAVA developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiranvaarala&label=Profile%20views&color=0e75b6&style=flat" alt="saikiranvaarala" /> </p>
+<p align="left"> <img src="https://github.com/rudrabarad/Gifs"height=300 width=500 aligen=right/> </p>
 
 - 🔭 I’m currently working on **FullStack Java**
 
