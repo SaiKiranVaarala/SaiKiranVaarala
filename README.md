@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,ReactJS**
 
-- 👯 I’m looking to collaborate on **Solutions In Java**
+- 👯 I’m looking to collaborate on **Java Based Web Applications **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaiKiranVaarala](https://github.com/SaiKiranVaarala)
 
